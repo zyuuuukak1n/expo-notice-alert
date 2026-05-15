@@ -30,7 +30,7 @@
 ### 1. リポジトリのクローンと移動
 
 ```bash
-git clone https://github.com/yourusername/expo-notice-alert.git
+git clone https://github.com/zyuuuukak1n/expo-notice-alert.git
 cd expo-notice-alert
 ```
 
